@@ -1,0 +1,20 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+h1{
+    text-align: center;
+    text-transform: capitalize;
+}
+
+#outer-dev{
+    font-size: 25px;
+}
+
+#innser-dev{
+    font-size: 15px;
+}

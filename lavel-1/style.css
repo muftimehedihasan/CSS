@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    font-weight: lighter;
+    
+}
+
+p{
+    text-align: left;
+    font-weight: bolder;
+}
+
+#one{
+    font-size: 40px;
+}
